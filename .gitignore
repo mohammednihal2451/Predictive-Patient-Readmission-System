@@ -36,6 +36,7 @@ Thumbs.db
 
 db.sqlite3
 *.pkl  #model files
+patient_readmission_model.pkl
 __pycache__/
 venv/
 env/
